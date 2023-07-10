@@ -1,0 +1,19 @@
+{
+  "name": "biblio",
+  "version": "0.0.1",
+  "description": "web app for learning from books",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dericko/biblio.git"
+  },
+  "author": "dericko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dericko/biblio/issues"
+  },
+  "homepage": "https://github.com/dericko/biblio#readme"
+}
